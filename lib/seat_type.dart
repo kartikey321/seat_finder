@@ -1,0 +1,1 @@
+enum SeatType { MIDDLE, LOWER, UPPER, SIDE_LOWER, SIDE_UPPER }
