@@ -22,3 +22,11 @@ Other than this, the app goes into a searching state, in which user cannot selec
 
 https://github.com/kartikey321/seat_finder/assets/71867343/c24dbac1-5ba1-46f2-8a71-aa9c494cd42d
 
+### Instructions to run the code 💻
+
+To run the code you need flutter sdk and dart sdk installed in your device with an IDE like Android Studio or VSCode.
+
+1. Copy the code link from github.
+2. Clone the github repository through Version control option in Android Studio/VSCode.
+3. Connect an android device or install an emulator to install the application.
+4. Click run. The application will get installed and run on the android device.
